@@ -1,6 +1,6 @@
 # Appify: A Full Stack Social Media Application Project
 
-##Appify is a simple social media application built with modern web technologies. It provides essential social features along with secure user authentication. The key functionalities include:
+## Appify is a simple social media application built with modern web technologies. It provides essential social features along with secure user authentication. The key functionalities include:
 🔐 1. User Registration & Login
 Users can create an account and securely log in to access the application.
 
@@ -23,7 +23,7 @@ This follows this simple requirement:
 
 “All users can see posts from all other users.”
 
-#Tools and Technology:
+# Tools and Technology:
 Backend: express js
 Frontend: react js 
 Database: mysql 
