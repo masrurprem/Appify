@@ -14,8 +14,7 @@ This setup ensures secure authentication and smooth token refresh cycles.
 📝 3. Create Posts
 Users can create posts that contain:
 
--Text content
--Optional image uploads
+Text content + optional image uploads
 
 🌍 4. Global Feed
 Any logged-in user can view posts created by all other users, not just their own.
@@ -23,10 +22,12 @@ This follows this simple requirement:
 
 “All users can see posts from all other users.”
 
-# Tools Employed:
- --- Backend: Express.js
- --- Frontend: React.js 
- --- Database: mysql 
- --- Database modeling: Prisma ORM
- --- Authentication: jwt 
- --- Hashing: bcryptjs
+## 🛠 Tech Stack
+
+**Backend:** Express.js  
+**Frontend:** React.js  
+**Database:** MySQL  
+**ORM:** Prisma  
+**Auth:** JWT  
+**Hashing:** bcryptjs
+
