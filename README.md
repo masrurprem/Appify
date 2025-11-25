@@ -23,10 +23,10 @@ This follows this simple requirement:
 
 “All users can see posts from all other users.”
 
-# Tools and Technology:
-### BBackend: express js
-### Frontend: react js 
-### Database: mysql 
-### Database modeling: prisma ORM
-### Authentication: jwt 
-### Hashing: bcryptjs
+# Tools Employed:
+ --- Backend: Express.js
+ --- Frontend: React.js 
+ --- Database: mysql 
+ --- Database modeling: Prisma ORM
+ --- Authentication: jwt 
+ --- Hashing: bcryptjs
